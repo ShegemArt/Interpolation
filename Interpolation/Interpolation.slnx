@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Interpolation.vcxproj" />
+  <Project Path="Interpolation.vcxproj" Id="64ba6d05-920c-4bb9-b925-f90087a6891e" />
 </Solution>
